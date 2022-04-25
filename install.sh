@@ -30,7 +30,7 @@ printf "] done!"
 clear
 
 
-msf > /dev/null &
+#msf > /dev/null &
 PID=$!
 echo "THIS MAY TAKE A WHILE, PLEASE BE PATIENT WHILE ______ IS RUNNING..."
 printf "["
